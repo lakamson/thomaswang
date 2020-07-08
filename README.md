@@ -1,16 +1,12 @@
-### Hi there 👋
+<p>
+  <img src="https://github.com/thomaswang/thomaswang/raw/master/octorobot.gif" width="32px">
+  <br><br>
+  <samp>
+    Hey :wave: 
+  </samp>
+</p>
 
-<!--
-**thomaswang/thomaswang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary><b>:crystal_ball: 2020 projects</b></summary>
+  I'm working on an immunization app with my co-founder Katherine Sistrunk, called [VaxNow](https://vaxnow.org). I'm also working on my student developer platform [DormDev](https://dormdev.com) and plan on releasing a student verification API service. 2020 has been a tough year for the world and me personally, but I am excited about these projects and :crossed_fingers: to their development.
+</details>
