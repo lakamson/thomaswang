@@ -1,6 +1,6 @@
 <p>
-  <img src="https://github.com/thomaswang/thomaswang/raw/master/octorobot.gif" width="32px">
-  <br><br>
+  <img src="https://github.com/thomaswang/thomaswang/raw/master/octorobot.gif" width="40px">
+  <br>
   <samp>
     Hey :wave: 
   </samp>
