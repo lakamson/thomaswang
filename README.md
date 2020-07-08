@@ -2,7 +2,9 @@
   <img src="https://github.com/thomaswang/thomaswang/raw/master/octorobot.gif" width="40px">
   <br>
   <samp>
-    Hey :wave: 
+    Hey :wave:
+    <br>
+    Welcome to my GitHub! I post some code on here sometimes :blossom:
   </samp>
 </p>
 
