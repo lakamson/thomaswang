@@ -3,7 +3,7 @@
   <br>
   <samp>
     Hey :wave:
-    <br>
+    <br><br>
     Welcome to my GitHub! I post some code on here sometimes :blossom:
   </samp>
 </p>
