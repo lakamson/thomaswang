@@ -12,7 +12,7 @@
 
 <details>
   <summary><b>:tulip: 2020 projects</b></summary>
-  <ul style="margin-top: 8px">
+  <ul>
     <li><a href="https://vaxnow.org">VaxNow</a>: an immunization app with my co-founder <a href="https://twitter.com/kat_sistrunk">Katherine Sistrunk</a></li>
     <li><a href="https://dormdev.com">DormDev</a>: a student developer platform and planned release of a student verification API service</li>
   </ul>
