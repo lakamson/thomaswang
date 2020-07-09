@@ -11,6 +11,9 @@
 <br>
 
 <details>
-  <summary><b>:crystal_ball: 2020 projects</b></summary>
-  I'm working on an immunization app with my co-founder Katherine Sistrunk, called <a href="https://vaxnow.org">VaxNow</a>. I'm also working on my student developer platform <a href="https://dormdev.com">DormDev</a> and plan on releasing a student verification API service. 2020 has been a tough year for the world and me personally, but I am excited about these projects and :crossed_fingers: to their development.
+  <summary><b>:tulip: 2020 projects</b></summary>
+  <ul>
+    <li><a href="https://vaxnow.org">VaxNow</a>: an immunization app with my co-founder <a href="https://twitter.com/kat_sistrunk">Katherine Sistrunk</a></li>
+    <li><a href="https://dormdev.com">DormDev</a>: a student developer platform and planned release of a student verification API service.</li>
+  </ul>
 </details>
