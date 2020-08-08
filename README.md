@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   <img src="https://github.com/thomaswang/thomaswang/raw/master/octorobot.gif" width="40px">
   <br><br>
   <samp>
