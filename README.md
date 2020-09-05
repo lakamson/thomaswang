@@ -14,7 +14,7 @@
   <summary><b>2020 projects</b></summary>
   <ul>
     <li><a href="https://vaxnow.org">VaxNow</a>: Simplifying immunizations with my co-founder <a href="https://twitter.com/kat_sistrunk">Katherine Sistrunk</a></li>
-    <li><a href="https://dormdev.com">DormDev</a>: a student developer platform.</li>
-    <li><a href="https://studentstat.us">Student Status</a>: a student verification service.</li>
+    <li><a href="https://dormdev.com">DormDev</a>: A student developer platform</li>
+    <li><a href="https://studentstat.us">Student Status</a>: A student verification service</li>
   </ul>
 </details>
