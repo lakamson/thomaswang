@@ -11,7 +11,7 @@
 <br>
 
 <details>
-  <summary><b>2020 projects</b></summary>
+  <summary><b>Projects</b></summary>
   <ul>
     <li><a href="https://vaxnow.org">VaxNow</a>: Simplifying immunizations with my co-founder <a href="https://twitter.com/kat_sistrunk">Katherine Sistrunk</a></li>
     <li><a href="https://dormdev.com">DormDev</a>: A student developer platform</li>
